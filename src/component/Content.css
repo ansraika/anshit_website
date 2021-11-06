@@ -1,0 +1,102 @@
+.master{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 100;
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.text{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 170%;
+    text-align: justify;
+    position: relative;
+}
+
+.contentText{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    position: relative;
+    font-size: 80%;
+}
+
+.subText{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    position: relative;
+    font-size: 70%;
+    line-height: 1em;
+    text-shadow: black;
+    font-weight: bold;
+}
+
+.links{
+ color: aliceblue;
+ text-decoration: none;
+}
+
+.subheadings{
+    color:#2DDBB8;
+    font-size: 90%;
+    
+}
+
+.header{
+    color:#2DDBB8;
+    font-weight: bold;
+}
+
+.contact{
+    color:#2DDBB8;
+    text-align: center;
+    font-size: 80%;
+}
+
+.image{
+    height: 50vh;
+    width: 20%;
+    box-shadow: #122436;
+    position:relative;
+    padding : 100;
+    padding-top: 10%;
+    padding-left: 5%;
+    
+}
+
+.rowline{
+    display:flex; 
+    flex-direction:row;
+}
+
+.aboutMeText{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.lines { 
+    margin: 25px 0;
+    height: 1px;
+    border: 0;
+    background: -webkit-gradient(linear, 0 0, 100% 0, from(#122436), to(#2DDBB8), color-stop(50%, #122436));
+}
+
+.contactIcon{
+    color: aliceblue;
+    text-decoration: none;
+    text-align: center;    
+}
+
+.resume{
+    color:#2DDBB8;
+    font-size: 80%;
+    text-decoration: none;
+}
+
+.credits{
+    color: aliceblue;
+    font-size: 50%;
+    text-align: center;
+}
