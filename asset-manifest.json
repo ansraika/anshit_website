@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/anshit_website/static/css/main.24f70a59.chunk.css",
+    "main.js": "/anshit_website/static/js/main.b4db7191.chunk.js",
+    "main.js.map": "/anshit_website/static/js/main.b4db7191.chunk.js.map",
+    "runtime-main.js": "/anshit_website/static/js/runtime-main.e457647a.js",
+    "runtime-main.js.map": "/anshit_website/static/js/runtime-main.e457647a.js.map",
+    "static/js/2.3cef20a9.chunk.js": "/anshit_website/static/js/2.3cef20a9.chunk.js",
+    "static/js/2.3cef20a9.chunk.js.map": "/anshit_website/static/js/2.3cef20a9.chunk.js.map",
+    "static/js/3.642e2ea7.chunk.js": "/anshit_website/static/js/3.642e2ea7.chunk.js",
+    "static/js/3.642e2ea7.chunk.js.map": "/anshit_website/static/js/3.642e2ea7.chunk.js.map",
+    "index.html": "/anshit_website/index.html",
+    "static/css/main.24f70a59.chunk.css.map": "/anshit_website/static/css/main.24f70a59.chunk.css.map",
+    "static/js/2.3cef20a9.chunk.js.LICENSE.txt": "/anshit_website/static/js/2.3cef20a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e457647a.js",
+    "static/js/2.3cef20a9.chunk.js",
+    "static/css/main.24f70a59.chunk.css",
+    "static/js/main.b4db7191.chunk.js"
+  ]
+}
