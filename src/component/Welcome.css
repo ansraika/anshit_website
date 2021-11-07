@@ -4,10 +4,9 @@
     font-weight: bold;
     height: "100vh";
     font-family: monospace;
-    padding: 100;
     font-size: 23;
     width: 100;
-    padding-top: 25%;
+    margin-top: 25%;
   }
 
   .components {
