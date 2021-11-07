@@ -1,9 +1,6 @@
 .master{
     font-family: 'Courier New', Courier, monospace;
-    padding: 100;
-    padding-top: 10%;
-    padding-left: 10%;
-    padding-right: 10%;
+    margin: 5vh;
 }
 
 .text{
